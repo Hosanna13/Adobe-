@@ -6,9 +6,7 @@ During my internship at the University of Cincinnati, I worked on enhancing shot
 
 Video editing has always been a creative outlet for me. I enjoy transforming raw footage into engaging, polished content. However, very annoying, time-consuming, and repetitive tasks have been generating subtitles. This process is important, but it removes me from the creative flow of editing.
 
-It made sense to combine my computer vision knowledge and my passion for video editing to solve this problem. I am developing a video subtitle generator specifically tailoed only for After Effetecs, for MAC, and soon Windows devices. The generator has the following capabilities: 
-- integrating speech detection and natural language processing
-- automated text layers to speech detection
+It made sense to combine my computer vision knowledge and my passion for video editing to solve this problem. I am developing a video subtitle generator specifically tailoed only for After Effetecs, for MAC, and soon Windows devices. 
 
 # Methodoly 
 Sep 6, 2024
@@ -21,3 +19,4 @@ Switched to CEP environment, moved to Mac.
 1. https://github.com/Adobe-CEP/Getting-Started-guides
 2. https://www.freecodecamp.org/news/how-to-turn-audio-to-text-using-openai-whisper/
 3. https://www.adobe.com/exchange/em_download/
+4. https://github.com/Adobe-CEP/Samples/tree/master/AfterEffectsPanel
