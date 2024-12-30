@@ -15,4 +15,7 @@ A plugin for Adobe After Effects that automatically transcribes audio and create
 # Use Cases
 - creating synced subtiles for videos
 - genearting lyric videos for songs
-- streamlining text overlay creation in After Effects 
+- streamlining text overlay creation in After Effects
+
+  Additional Information:
+  https://github.com/Hosanna13/Adobe-/blob/main/About.md 
