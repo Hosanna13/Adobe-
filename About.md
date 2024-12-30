@@ -1,4 +1,5 @@
-# Video Subtitle Generator Script for Adobe After Effects
+# AE Audio Sync Plugin 
+A plugin for Adobe After Effects that automatically transcribes audio and creates synced text layers for seamless subtitles or lyric videos.
 
 # Purpose Behind the Pursuit
 During my internship at the University of Cincinnati, I worked on enhancing shot detection in videos using color histograms. That project became the start of my interest in computer vision, inspired by that internship experience I decided to explore how the principles I learned from that internship, could apply to my favorite hobby: video editing. 
