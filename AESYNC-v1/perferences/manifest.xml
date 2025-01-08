@@ -1,0 +1,7 @@
+<ExtensionList>
+  <Extension Id="com.yourdomain.AESYNC-v1" />
+</ExtensionList>
+<ParameterList>
+  <Parameter Name="PlayerDebugMode" Value="1" />
+  <Parameter Name="LogLevel" Value="6" />
+</ParameterList>

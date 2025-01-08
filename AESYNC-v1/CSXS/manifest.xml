@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   ExtensionBundleId="com.yourdomain.AESYNC-v1"
+                   ExtensionBundleName="AESYNC"
+                   ExtensionBundleVersion="1.0.0"
+                   Version="10.0">
+  <ExtensionList>
+    <Extension Id="com.yourdomain.AESYNC-v1" Version="1.0.0"/>
+  </ExtensionList>
+  <ExecutionEnvironment>
+    <HostList>
+      <!-- AEFT = After Effects. The version range 25.0 up to 25.9. -->
+      <Host Name="AEFT" Version="[25.0,25.9]"/>
+    </HostList>
+    <LocaleList>
+      <Locale Code="All"/>
+    </LocaleList>
+    <RequiredRuntimeList>
+      <RequiredRuntime Name="CSXS" Version="10.0"/>
+    </RequiredRuntimeList>
+  </ExecutionEnvironment>
+  <DispatchInfoList>
+    <Extension Id="com.yourdomain.AESYNC-v1">
+      <DispatchInfo>
+        <Resources>
+          <MainPath>./index.html</MainPath>
+          <ScriptPath>./js/main.js</ScriptPath>
+          <CEFCommandLine/>
+        </Resources>
+        <UI>
+          <Type>Panel</Type>
+          <Menu>AE SYNC</Menu>
+          <Geometry>
+            <Size>
+              <Height>400</Height>
+              <Width>300</Width>
+            </Size>
+          </Geometry>
+        </UI>
+      </DispatchInfo>
+    </Extension>
+  </DispatchInfoList>
+</ExtensionManifest>
