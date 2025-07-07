@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ExtensionManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                   ExtensionBundleId="com.yourdomain.AESYNC-v1"
+                   ExtensionBundleId="com.hosani.AESYNC-v1"
                    ExtensionBundleName="AESYNC"
                    ExtensionBundleVersion="1.0.0"
                    Version="10.0">
   <ExtensionList>
-    <Extension Id="com.yourdomain.AESYNC-v1" Version="1.0.0"/>
+    <Extension Id="com.hosani.AESYNC-v1" Version="1.0.0"/>
   </ExtensionList>
   <ExecutionEnvironment>
     <HostList>
@@ -20,7 +20,7 @@
     </RequiredRuntimeList>
   </ExecutionEnvironment>
   <DispatchInfoList>
-    <Extension Id="com.yourdomain.AESYNC-v1">
+    <Extension Id="com.hosani.AESYNC-v1">
       <DispatchInfo>
         <Resources>
           <MainPath>./index.html</MainPath>
