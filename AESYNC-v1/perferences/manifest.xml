@@ -1,5 +1,5 @@
 <ExtensionList>
-  <Extension Id="com.yourdomain.AESYNC-v1" />
+  <Extension Id="com.hosani.AESYNC-v1" />
 </ExtensionList>
 <ParameterList>
   <Parameter Name="PlayerDebugMode" Value="1" />
