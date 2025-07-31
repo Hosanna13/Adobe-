@@ -32,8 +32,8 @@
           <Menu>AE SYNC</Menu>
           <Geometry>
             <Size>
-              <Height>400</Height>
-              <Width>300</Width>
+              <Height>500</Height>
+              <Width>400</Width>
             </Size>
           </Geometry>
         </UI>
